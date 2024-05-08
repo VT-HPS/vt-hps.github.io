@@ -7,3 +7,4 @@ This is the home page of my wiki. Below is the table of contents:
 - [Tips and Tricks](wiki_setup/tips.md)
 - 
 - THis is another test
+- This is to show people merge stuff

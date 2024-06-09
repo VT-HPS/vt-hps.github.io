@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "New Member Onboarding (title test)"
+permalink: https://vt-hps.github.io/new_member_resources/new-member-onboarding.md
 ---
 Welcome to the team!
 

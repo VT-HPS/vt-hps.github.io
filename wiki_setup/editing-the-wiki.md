@@ -1,6 +1,6 @@
-# Getting Started
+# Editing the Wiki
 
-To get started with using this wiki, follow these steps:
+To get started with editing this wiki, follow these steps:
 
 1. Clone the repository.
 2. Install any necessary dependencies.

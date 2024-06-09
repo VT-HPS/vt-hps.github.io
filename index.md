@@ -9,7 +9,7 @@ This is our primary location for storing institutional knowledge. For current-se
 - [HPS Sharepoint](https://virginiatech.sharepoint.com/sites/HPS) (off-site) (access controlled)
 - [HPS GitHub](https://github.com/VT-HPS) (off-site)
 - [International Submarine Races official website](https://internationalsubmarineraces.org/) (off-site)
-- [New Member Onboarding](wiki_setup\new-member-onboarding.md)
+- [New Member Onboarding](wiki_setup/new-member-onboarding.md)
 
 # Using the Wiki
   - [Understanding the Wiki's Layout](wiki_setup/wiki-layout-plan.md)
@@ -36,4 +36,7 @@ This is our primary location for storing institutional knowledge. For current-se
 - [Hydro Team](subteams/hydro-subteam.md)
 - [Structures Team](subteams/structures-subteam.md)
 
+# Find Pages by Process:
+- [Fiberglass Layup]()
+- []()
 

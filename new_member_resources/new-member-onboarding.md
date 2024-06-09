@@ -1,8 +1,9 @@
----
+<---
 layout: page
 title: "New Member Onboarding (title test)"
 permalink: https://vt-hps.github.io/new_member_resources/new-member-onboarding.md
----
+--->
+
 Welcome to the team!
 
 This page lists the next steps you need to complete to be able to fully participate on the team.
@@ -11,7 +12,7 @@ This page lists the next steps you need to complete to be able to fully particip
 >1. Obtain your Ware Lab badge
 >2. 
 
-> Note: 
+> [!NOTE] 
 > SCUBA certification is NOT required of new team members.
 > Returning team members who are interested in earning SCUBA certification should talk to the current team Divemaster.
 

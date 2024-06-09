@@ -31,9 +31,9 @@ This is our primary location for storing institutional knowledge. For current-se
 7. [Code](subsystems\code\code-subsystem-page.md)
 
 # Find Pages by *Sub*team:
-- [Controls Team]()
-- [Electronics Team]()
-- [Hydro Team]()
-- [Structures Team]()
+- [Controls Team](subteams\controls-subteam.md)
+- [Electronics Team](subteams\electronics-subteam.md)
+- [Hydro Team](subteams\hydro-subteam.md)
+- [Structures Team](subteams\structures-subteam.md)
 
 

@@ -1,6 +1,4 @@
-# Hub Page
-
-![hps_logo1](hps_logo1.0d58f8f35c7f254d23fc.png)
+# ![hps_logo1](hps_logo1.0d58f8f35c7f254d23fc.png)
 
 Welcome to the Wiki of the Human Powered Submarine at Virginia Tech team!
 

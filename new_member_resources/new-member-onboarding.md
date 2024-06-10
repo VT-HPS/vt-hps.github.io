@@ -1,10 +1,4 @@
----
-layout: page
-title: "New Member Onboarding (title test)"
----
-
-test 19:48
-
+# New Member Onboarding
 Welcome to the team!
 
 This page lists the next steps you need to complete to be able to fully participate on the team.

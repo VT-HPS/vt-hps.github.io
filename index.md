@@ -12,11 +12,11 @@ For working files and current-semester files, team members should look in the te
 
 
 # Convenient Links
+- [New Member Onboarding](new_member_resources/new-member-onboarding.md)
+- [International Submarine Races official website](https://internationalsubmarineraces.org/) (external link)
 - [HPS Sharepoint](https://virginiatech.sharepoint.com/sites/HPS) (external link) (access controlled)
 - [HPS GitHub](https://github.com/VT-HPS) (external link)
-- [International Submarine Races official website](https://internationalsubmarineraces.org/) (external link)
 - [T-Rex](https://chromedino.com/) (external link)
-- [New Member Onboarding](new_member_resources/new-member-onboarding.md)
 
 
 # Using the Wiki
@@ -45,7 +45,7 @@ For working files and current-semester files, team members should look in the te
 - [Structures Team](subteams/structures-subteam.md)
 
 
-# Find Pages by Process:
-- [Fiberglass Layup]()
-- [Machining]()
+# Find Pages by ~~*Sub*~~ Process:
+- [Fiberglass Layup](methods_and_processes/fiberglass_layup/fiberglass-layup)
+- [Machining](methods_and_processes/machining/machining-home-page.md)
 

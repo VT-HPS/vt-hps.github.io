@@ -52,6 +52,4 @@ Each subteam has some additional things that new members need to do. Look at the
 
 
 # Useful Resources
-[Jargon Glossary][def]
-
-[def]: new_member_resources/new-member-onboarding.md
+- [Jargon Glossary](new_member_resources/jargon-glossary.md)

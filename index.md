@@ -18,7 +18,7 @@ For working files and current-semester files, team members should look in the te
 - [International Submarine Races official website](https://internationalsubmarineraces.org/) (external link)
 - [HPS Sharepoint](https://virginiatech.sharepoint.com/sites/HPS) (external link) (access controlled)
 - [HPS GitHub](https://github.com/VT-HPS) (external link)
-- [T-Rex](wiki_setup/dino-game.md) (external link)
+- [T-Rex](https://chromedino.com/) (external link)
 
 
 # Using the Wiki

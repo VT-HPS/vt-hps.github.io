@@ -5,3 +5,7 @@ To get started with editing this wiki, follow these steps:
 1. Clone the repository.
 2. Install any necessary dependencies.
 3. Explore the content and contribute as needed.
+
+[Link to SharePoint document about Wiki editing](https://virginiatech.sharepoint.com/:w:/r/sites/HPS/Shared%20Documents/Administrative/Information%20Restructuring%20Project%20Notebook.docx?d=wbf9cf2f705f64dec8628b39f00b53fec&csf=1&web=1&e=jR0LMu&nav=eyJoIjoiMTc5MDc3NDk4In0%3D) (external link) (access controlled)
+
+[Style Guide](wiki-style-guide.md)

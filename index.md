@@ -6,7 +6,9 @@ title: "HPS Wiki (title test)"
 
 ![hps_logo1](hps_logo1.0d58f8f35c7f254d23fc.png)
 
-Welcome to the Wiki of the Human Powered Submarine at Virginia Tech team; our primary location for storing institutional knowledge!
+Welcome to the team Wiki of Human Powered Submarine at Virginia Tech; our primary location for storing institutional knowledge!
+
+This wiki is a work in progress (and somewhat always will be).
 
 For working files and current-semester files, team members should look in the team SharePoint.
 
@@ -45,7 +47,7 @@ For working files and current-semester files, team members should look in the te
 - [Structures Team](subteams/structures-subteam.md)
 
 
-# Find Pages by ~~*Sub*~~ Process:
+# Find Pages by ~~*Sub*~~Process:
 - [Fiberglass Layup](methods_and_processes/fiberglass_layup/fiberglass-layup)
 - [Machining](methods_and_processes/machining/machining-home-page.md)
 

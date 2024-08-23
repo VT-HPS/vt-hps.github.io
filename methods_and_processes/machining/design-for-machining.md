@@ -8,5 +8,5 @@
     - And its [accompanying video](https://www.youtube.com/watch?v=qx_qqVmjCc0)
 
 
-
-[^1]: THANK GOD for Wayback Machine!
+### Footnotes
+[^1]: Saved by the Wayback Machine!

@@ -1,4 +1,4 @@
-# New Member Onboarding
+# New Member Onboarding (WIP)
 Welcome to the team!
 
 This page lists the next steps you need to complete to be able to fully participate on the team.
@@ -49,3 +49,7 @@ Each subteam has some additional things that new members need to do. Look at the
 >    2. step 
 >    3. step
 >3. 
+
+
+# Useful Resources
+[Jargon Glossary](new_member_resources/new-member-onboarding.md)

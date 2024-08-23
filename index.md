@@ -48,6 +48,6 @@ For working files and current-semester files, team members should look in the te
 
 
 # Find Pages by ~~*Sub*~~Process:
-- [Fiberglass Layup](methods_and_processes/fiberglass_layup/fiberglass-layup)
+- [Fiberglass Layup](methods_and_processes/fiberglass_layup/fiberglass-layup.md)
 - [Machining](methods_and_processes/machining/machining-home-page.md)
 

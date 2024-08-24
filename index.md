@@ -1,54 +1,123 @@
 ---
-layout: page
-title: "HPS Wiki (under construction)"
+layout: default
 ---
 
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-![hps_logo1](hps_logo1.0d58f8f35c7f254d23fc.png)
+[Link to another page](./another-page.html).
 
-Welcome to the team Wiki of Human Powered Submarine at Virginia Tech; our primary location for storing institutional knowledge!
+There should be whitespace between paragraphs.
 
-Note: this wiki is a work in progress (and to some extent, it always will be).
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-For working files and current-semester files, team members should look in the team SharePoint.
+# Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### Header 3
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+#### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
+* * *
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-# Convenient Links
-- [New Member Onboarding (WIP)](new_member_resources/new-member-onboarding.md)
-- [International Submarine Races official website](https://internationalsubmarineraces.org/) (external link)
-- [HPS Sharepoint](https://virginiatech.sharepoint.com/sites/HPS) (external link) (access controlled)
-- [HPS GitHub](https://github.com/VT-HPS) (external link)
-- [T-Rex](https://chromedino.com/) (external link)
+### Definition lists can be used with HTML syntax.
 
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
 
-# Using the Wiki
-  - [Understanding the Wiki's Layout](wiki_setup/wiki-layout-plan.md)
-  - [Editing the Wiki](wiki_setup/editing-the-wiki.md)
-  - [Tips and Tricks](wiki_setup/tips.md)
-  - [FAQs](wiki_setup/faqs.md)
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
 
-
-# Find Pages By Major *Sub*system:
-!!!NEED IMAGE HERE!!! 
-(isometric cutaway image of generic sub with the following numbered leaders)
-1. [Hull](subsystems/hull/hull.md)
-2. [Control Systems](subsystems/control_systems/control_systems.md)
-3. [Internal Strutures](subsystems/internal_structures/internal-structures.md)
-4. [Pilot Support Systems]()
-5. [Propulsion](subsystems/propulsion/propulsion.md)
-6. [Electronics](subsystems/electronics/electronics.md)
-7. [Code](subsystems/code/code-subsystem-page.md)
-
-
-# Find Pages by *Sub*team:
-- [Controls Team](subteams/controls-subteam.md)
-- [Electronics Team](subteams/electronics-subteam.md)
-- [Hydro Team](subteams/hydro-subteam.md)
-- [Structures Team](subteams/structures-subteam.md)
-
-
-# Find Pages by ~~*Sub*~~Process:
-- [Diving](methods_and_processes/diving/diving.md)
-- [Fiberglass Layup](methods_and_processes/fiberglass_layup/fiberglass-layup.md)
-- [Machining](methods_and_processes/machining/machining-home-page.md)
-
+```
+The final element.
+```

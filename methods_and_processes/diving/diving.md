@@ -1,5 +1,5 @@
 
 # Diving
 
-[Glossary of Diving Signals](methods_and_processes\diving\diving-hand-signals.md)
+[Glossary of Diving Signals](diving-hand-signals.md)
 

@@ -2,7 +2,6 @@
 layout: page
 title: "HPS Wiki (under construction)"
 ---
-test hello
 
 ![hps_logo1](hps_logo1.0d58f8f35c7f254d23fc.png)
 
@@ -12,6 +11,7 @@ Note: this wiki is a work in progress (and to some extent, it always will be).
 
 For working files and current-semester files, team members should look in the team SharePoint.
 
+test hello
 
 # Convenient Links
 - [New Member Onboarding (WIP)](new_member_resources/new-member-onboarding.md)

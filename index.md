@@ -11,8 +11,6 @@ Note: this wiki is a work in progress (and to some extent, it always will be).
 
 For working files and current-semester files, team members should look in the team SharePoint.
 
-test hello
-
 # Convenient Links
 - [New Member Onboarding (WIP)](new_member_resources/new-member-onboarding.md)
 - [International Submarine Races official website](https://internationalsubmarineraces.org/) (external link)

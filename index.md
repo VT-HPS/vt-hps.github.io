@@ -20,7 +20,7 @@ For working files and current-semester files, team members should look in the te
 - [HPS GitHub](https://github.com/VT-HPS) (external link)
 - [T-Rex](https://chromedino.com/) (external link)
 
- 
+
 # Using the Wiki
   - [Understanding the Wiki's Layout](wiki_setup/wiki-layout-plan.md)
   - [Editing the Wiki](wiki_setup/editing-the-wiki.md)

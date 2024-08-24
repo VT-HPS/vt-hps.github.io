@@ -4,8 +4,8 @@ Welcome to the team!
 This page lists the next steps you need to complete to be able to fully participate on the team.
 
 >**All New Team Members**
->1. Obtain your Ware Lab badge
->2. 
+>1. Obtain your Ware Lab badge (link to instructions)
+>2. //PLACEHOLDER//
 
 > Note:
 > SCUBA certification is NOT required of new team members.
@@ -17,38 +17,30 @@ Each subteam has some additional things that new members need to do. Look at the
 
 >**Controls Subteam** Onboarding
 >1. Respirator training
->    1. step
->    2. step 
->    3. step
->2. Ware Lab machine shop certification (recommended)
->    1. step
->    2. step 
->    3. step
->3. 
+>    1. //PLACEHOLDER//
+>2. (recommended) Ware Lab machine shop certification 
+>    1. //PLACEHOLDER//
+>3. //PLACEHOLDER//
 
 
 >**Electronics Subteam** Onboarding
->1. placeholder item
+>1. //PLACEHOLDER//
 
 
 >**Hydro Subteam** Onboarding
 >1. Respirator training
->    1. step
->    2. step 
->    3. step
->2. 
+>    1. //PLACEHOLDER//
+>2. //PLACEHOLDER//
 
 
 >**Structures Subteam** Onboarding
 >1. Respirator training
+>    1. //PLACEHOLDER//
+>2. (recommended) Ware Lab machine shop certification
 >    1. step
 >    2. step 
 >    3. step
->2. Ware Lab machine shop certification (recommended)
->    1. step
->    2. step 
->    3. step
->3. 
+>3. //PLACEHOLDER//
 
 
 # Useful Resources

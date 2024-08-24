@@ -8,6 +8,8 @@ Please this page completely before editing the wiki, and please return to it any
 
 **.md files** are to use **hyphens** (-) as seperator characters.
 
-![alt text](file-naming-example.png)
+**Reference files** (such as images) do not have to adhere to a particular character; just **no spaces allowed**.
+
+![example of folder and file naming convention](file-naming-example.png)
 
 

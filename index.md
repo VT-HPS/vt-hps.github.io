@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "HPS Wiki (title test)"
+title: "HPS Wiki (under construction)"
 ---
 
 

@@ -18,8 +18,7 @@ Each subteam has some additional things that new members need to do. Look at the
 >**Controls Subteam** Onboarding
 >1. Respirator training
 >    1. //PLACEHOLDER//
->2. (recommended) Ware Lab machine shop certification 
->    1. //PLACEHOLDER//
+>2. (recommended) Ware Lab machine shop certification (//link to instructions//)
 >3. //PLACEHOLDER//
 
 
@@ -36,10 +35,7 @@ Each subteam has some additional things that new members need to do. Look at the
 >**Structures Subteam** Onboarding
 >1. Respirator training
 >    1. //PLACEHOLDER//
->2. (recommended) Ware Lab machine shop certification
->    1. step
->    2. step 
->    3. step
+>2. (recommended) Ware Lab machine shop certification (//link to instructions//)
 >3. //PLACEHOLDER//
 
 

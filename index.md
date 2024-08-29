@@ -45,8 +45,9 @@ For working files and current-semester files, team members should look in the te
 - [Structures Team](subteams/structures-subteam.md)
 
 
-# Find Pages by ~~*Sub*~~Process:
+# Find Pages by ~~*Sub*~~Process or Method:
 - [Diving](methods_and_processes/diving/diving.md)
 - [Fiberglass Layup](methods_and_processes/fiberglass_layup/fiberglass-layup.md)
 - [Machining](methods_and_processes/machining/machining-home-page.md)
+- [ITeam Information Management](methods_and_processes/information_management/information-management-plan.md)
 

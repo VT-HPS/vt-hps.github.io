@@ -49,5 +49,5 @@ For working files and current-semester files, team members should look in the te
 - [Diving](methods_and_processes/diving/diving.md)
 - [Fiberglass Layup](methods_and_processes/fiberglass_layup/fiberglass-layup.md)
 - [Machining](methods_and_processes/machining/machining-home-page.md)
-- [ITeam Information Management](methods_and_processes/information_management/information-management-plan.md)
+- [Team Information Management](methods_and_processes/information_management/information-management-plan.md)
 

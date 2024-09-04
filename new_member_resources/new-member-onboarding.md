@@ -5,7 +5,8 @@ This page lists the next steps you need to complete to be able to fully particip
 
 >**All New Team Members**
 >1. Obtain your Ware Lab badge - [link to 2024-2025 instructions](Obtaining_your_WL_badge_2024-25.pdf)
->2. //PLACEHOLDER//
+>2. Join the team Slack (Invite link will be provided during onboaridng meeting)
+>3. //PLACEHOLDER//
 
 > Note:
 > SCUBA certification is NOT required of new team members.
@@ -18,7 +19,7 @@ Each subteam has some additional things that new members need to do. Look at the
 >**Controls Subteam** Onboarding
 >1. Respirator training
 >    1. //PLACEHOLDER//
->2. (recommended) Ware Lab machine shop certification (//link to instructions//)
+>2. (Recommended) Ware Lab machine shop certification (//link to instructions//)
 >3. //PLACEHOLDER//
 
 
@@ -35,7 +36,7 @@ Each subteam has some additional things that new members need to do. Look at the
 >**Structures Subteam** Onboarding
 >1. Respirator training
 >    1. //PLACEHOLDER//
->2. (recommended) Ware Lab machine shop certification (//link to instructions//)
+>2. (Recommended) Ware Lab machine shop certification (//link to instructions//)
 >3. //PLACEHOLDER//
 
 

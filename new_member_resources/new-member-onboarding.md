@@ -17,9 +17,8 @@ This page lists the next steps you need to complete to be able to fully particip
 Each subteam has some additional things that new members need to do. Look at the list below and complete the task list(s) for any subteam(s) that you plan to join.  
 
 >**Controls Subteam** Onboarding
->1. Respirator training
->    1. //PLACEHOLDER//
->2. (Recommended) Ware Lab machine shop certification (//link to instructions//)
+>1. Respirator training through [VT EHS](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694)
+>2. (Recommended) Ware Lab machine shop certification - See [WL Canvas](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
 >3. //PLACEHOLDER//
 
 
@@ -28,15 +27,13 @@ Each subteam has some additional things that new members need to do. Look at the
 
 
 >**Hydro Subteam** Onboarding
->1. Respirator training
->    1. //PLACEHOLDER//
+>1. Respirator training through [VT EHS](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694)
 >2. //PLACEHOLDER//
 
 
 >**Structures Subteam** Onboarding
->1. Respirator training
->    1. //PLACEHOLDER//
->2. (Recommended) Ware Lab machine shop certification (//link to instructions//)
+>1. Respirator training through [VT EHS](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694)
+>2. (Recommended) Ware Lab machine shop certification - See [WL Canvas](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
 >3. //PLACEHOLDER//
 
 

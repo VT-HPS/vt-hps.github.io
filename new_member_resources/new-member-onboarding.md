@@ -6,7 +6,7 @@ This page lists the next steps you need to complete to be able to fully particip
 >**All New Team Members**
 >1. Join the team Slack (Invite link will be provided during onboaridng meeting)
 >2. Obtain your Ware Lab badge - [(link to 2024-2025 instructions)](Obtaining_your_WL_badge_2024-25.pdf)
->3. //PLACEHOLDER//
+
 
 > Note: 
 >

@@ -18,7 +18,7 @@ Each subteam has some additional things that new members need to do. Look at the
 
 
 >**Controls Subteam** Onboarding
->1. Complete [respirator protection training](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694) through VT EHS
+>1. Complete [respiratory protection training](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694) through VT EHS
 >2. (Recommended)  If you have passed ISE 2214, sign up for Ware Lab machine shop certification - See [Ware Lab Canvas "Files" page](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
 
 
@@ -27,12 +27,12 @@ Each subteam has some additional things that new members need to do. Look at the
 
 
 >**Hydro Subteam** Onboarding
->1. Complete [respirator protection training](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694) through VT EHS
+>1. Complete [respiratory protection training](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694) through VT EHS
 >2. //PLACEHOLDER//
 
 
 >**Structures Subteam** Onboarding
->1. Complete [respirator protection training](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694) through VT EHS
+>1. Complete [respiratory protection training](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694) through VT EHS
 >2. (Recommended) If you have passed ISE 2214, sign up for  Ware Lab machine shop certification - See [Ware Lab Canvas "Files" page](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
 
 

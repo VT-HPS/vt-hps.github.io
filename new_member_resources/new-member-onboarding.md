@@ -19,7 +19,7 @@ Each subteam has some additional things that new members need to do. Look at the
 
 >**Controls Subteam** Onboarding
 >1. Complete respirator training through [VT EHS](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694)
->2. (Recommended) Complete Ware Lab machine shop certification - See [Ware Lab Canvas](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
+>2. (Recommended) Complete Ware Lab machine shop certification - See [Ware Lab Canvas "Files" page](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
 >3. //PLACEHOLDER//
 
 
@@ -34,7 +34,7 @@ Each subteam has some additional things that new members need to do. Look at the
 
 >**Structures Subteam** Onboarding
 >1. Complete respirator training through [VT EHS](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694)
->2. (Recommended) Complete Ware Lab machine shop certification - See [Ware Lab Canvas](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
+>2. (Recommended) Complete Ware Lab machine shop certification - See [Ware Lab Canvas "Files" page](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
 >3. //PLACEHOLDER//
 
 

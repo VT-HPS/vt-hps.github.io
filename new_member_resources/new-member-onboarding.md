@@ -8,8 +8,9 @@ This page lists the next steps you need to complete to be able to fully particip
 >2. Obtain your Ware Lab badge - [(link to 2024-2025 instructions)](Obtaining_your_WL_badge_2024-25.pdf)
 >3. //PLACEHOLDER//
 
-> Note:
-> SCUBA certification is NOT required of new team members.
+> Note: 
+>
+>SCUBA certification is NOT required of new team members.
 > Returning team members who are interested in earning SCUBA certification should talk to the current team Divemaster.
 
 
@@ -17,8 +18,8 @@ This page lists the next steps you need to complete to be able to fully particip
 Each subteam has some additional things that new members need to do. Look at the list below and complete the task list(s) for any subteam(s) that you plan to join.  
 
 >**Controls Subteam** Onboarding
->1. Respirator training through [VT EHS](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694)
->2. (Recommended) Ware Lab machine shop certification - See [WL Canvas](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
+>1. Complete respirator training through [VT EHS](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694)
+>2. (Recommended) Complete Ware Lab machine shop certification - See [Ware Lab Canvas](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
 >3. //PLACEHOLDER//
 
 
@@ -27,13 +28,13 @@ Each subteam has some additional things that new members need to do. Look at the
 
 
 >**Hydro Subteam** Onboarding
->1. Respirator training through [VT EHS](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694)
+>1. Complete respirator training through [VT EHS](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694)
 >2. //PLACEHOLDER//
 
 
 >**Structures Subteam** Onboarding
->1. Respirator training through [VT EHS](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694)
->2. (Recommended) Ware Lab machine shop certification - See [WL Canvas](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
+>1. Complete respirator training through [VT EHS](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694)
+>2. (Recommended) Complete Ware Lab machine shop certification - See [Ware Lab Canvas](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
 >3. //PLACEHOLDER//
 
 

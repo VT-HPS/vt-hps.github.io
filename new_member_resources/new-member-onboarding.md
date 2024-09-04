@@ -4,7 +4,7 @@ Welcome to the team!
 This page lists the next steps you need to complete to be able to fully participate on the team.
 
 >**All New Team Members**
->1. Obtain your Ware Lab badge (//link to instructions//)
+>1. Obtain your Ware Lab badge - [link to 2024-2025 instructions](Obtaining_your_WL_badge_2024-25.pdf)
 >2. //PLACEHOLDER//
 
 > Note:

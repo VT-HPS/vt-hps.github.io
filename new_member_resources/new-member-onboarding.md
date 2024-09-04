@@ -17,10 +17,10 @@ This page lists the next steps you need to complete to be able to fully particip
 ## Specific Subteam Onboarding
 Each subteam has some additional things that new members need to do. Look at the list below and complete the task list(s) for any subteam(s) that you plan to join.  
 
+
 >**Controls Subteam** Onboarding
 >1. Complete [respirator protection training](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694) through VT EHS
->2. (Recommended) Complete Ware Lab machine shop certification - See [Ware Lab Canvas "Files" page](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
->3. //PLACEHOLDER//
+>2. (Recommended)  If you have passed ISE 2214, complete Ware Lab machine shop certification - See [Ware Lab Canvas "Files" page](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
 
 
 >**Electronics Subteam** Onboarding
@@ -34,8 +34,7 @@ Each subteam has some additional things that new members need to do. Look at the
 
 >**Structures Subteam** Onboarding
 >1. Complete [respirator protection training](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694) through VT EHS
->2. (Recommended) Complete Ware Lab machine shop certification - See [Ware Lab Canvas "Files" page](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
->3. //PLACEHOLDER//
+>2. (Recommended) If you have passed ISE 2214, complete Ware Lab machine shop certification - See [Ware Lab Canvas "Files" page](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
 
 
 # Useful Resources

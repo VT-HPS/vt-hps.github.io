@@ -8,9 +8,8 @@ This page lists the next steps you need to complete to be able to fully particip
 >2. Obtain your Ware Lab badge - [(link to 2024-2025 instructions)](Obtaining_your_WL_badge_2024-25.pdf)
 
 
-> Note: 
->
->SCUBA certification is NOT required of new team members.
+> Note:
+> SCUBA certification is NOT required of new team members.
 > Returning team members who are interested in earning SCUBA certification should talk to the current team Divemaster.
 
 
@@ -20,7 +19,7 @@ Each subteam has some additional things that new members need to do. Look at the
 
 >**Controls Subteam** Onboarding
 >1. Complete [respirator protection training](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694) through VT EHS
->2. (Recommended)  If you have passed ISE 2214, complete Ware Lab machine shop certification - See [Ware Lab Canvas "Files" page](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
+>2. (Recommended)  If you have passed ISE 2214, sign up for Ware Lab machine shop certification - See [Ware Lab Canvas "Files" page](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
 
 
 >**Electronics Subteam** Onboarding
@@ -34,7 +33,7 @@ Each subteam has some additional things that new members need to do. Look at the
 
 >**Structures Subteam** Onboarding
 >1. Complete [respirator protection training](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694) through VT EHS
->2. (Recommended) If you have passed ISE 2214, complete Ware Lab machine shop certification - See [Ware Lab Canvas "Files" page](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
+>2. (Recommended) If you have passed ISE 2214, sign up for  Ware Lab machine shop certification - See [Ware Lab Canvas "Files" page](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
 
 
 # Useful Resources

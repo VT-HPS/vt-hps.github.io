@@ -24,12 +24,11 @@ Each subteam has some additional things that new members need to do. Look at the
 
 
 >**Electronics Subteam** Onboarding
->1. Read through the [2024-2025 electronics system overview]()
->2. //PLACEHOLDER//
+> N/A
 
 
 >**Hydro Subteam** Onboarding
->1. //PLACEHOLDER//
+> N/A
 
 
 >**Structures Subteam** Onboarding

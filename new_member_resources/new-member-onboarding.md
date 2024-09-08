@@ -4,11 +4,11 @@ Welcome to the team!
 This page lists the next steps you need to complete to be able to fully participate on the team.
 
 >**All New Team Members**
->1. Join the team Slack (Invite link will be provided during onboaridng meeting)
+>1. Join the team Slack (Invite link will be provided during onboarding meeting)
 >2. Bookmark [the HPS SharePoint (access controlled)](https://virginiatech.sharepoint.com/sites/HPS) in your browser
 >3. Bookmark [The team wiki](https://vt-hps.github.io/) in your browser
 >4. Obtain your Ware Lab badge - [(link to 2024-2025 instructions)](Obtaining_your_WL_badge_2024-25.pdf)
->5. Complete [respiratory protection training](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694) through VT EHS
+>5. Complete [VT EHS respiratory protection training](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694)
 
 > Note:
 > SCUBA certification is NOT required of new team members.

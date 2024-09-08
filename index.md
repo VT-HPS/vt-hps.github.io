@@ -20,10 +20,10 @@ For working files and current-semester files, team members should look in the te
 
 
 # Using the Wiki
-  - [Understanding the Wiki's Layout](wiki_setup/wiki-layout-plan.md)
-  - [Editing the Wiki](wiki_setup/editing-the-wiki.md)
-  - [Tips and Tricks](wiki_setup/tips.md)
-  - [FAQs](wiki_setup/faqs.md)
+- [Understanding the Wiki's Layout](wiki_setup/wiki-layout-plan.md)
+- [Editing the Wiki](wiki_setup/editing-the-wiki.md)
+- [Tips and Tricks](wiki_setup/tips.md)
+- [FAQs](wiki_setup/faqs.md)
 
 
 # Find Pages By Major *Sub*system:

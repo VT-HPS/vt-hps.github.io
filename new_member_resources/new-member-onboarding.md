@@ -24,11 +24,11 @@ Each subteam has some additional things that new members need to do. Look at the
 
 
 >**Electronics Subteam** Onboarding
-> N/A
+>- N/A
 
 
 >**Hydro Subteam** Onboarding
-> N/A
+>- N/A
 
 
 >**Structures Subteam** Onboarding

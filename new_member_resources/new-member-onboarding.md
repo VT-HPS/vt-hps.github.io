@@ -5,9 +5,9 @@ This page lists the next steps you need to complete to be able to fully particip
 
 >**All New Team Members**
 >1. Join the team Slack (Invite link will be provided during onboaridng meeting)
->2. Obtain your Ware Lab badge - [(link to 2024-2025 instructions)](Obtaining_your_WL_badge_2024-25.pdf)
->3. Bookmark [the HPS SharePoint (access controlled)](https://virginiatech.sharepoint.com/sites/HPS) in your browser
->4. Bookmark [The team wiki](https://vt-hps.github.io/) in your browser
+>2. Bookmark [the HPS SharePoint (access controlled)](https://virginiatech.sharepoint.com/sites/HPS) in your browser
+>3. Bookmark [The team wiki](https://vt-hps.github.io/) in your browser
+>4. Obtain your Ware Lab badge - [(link to 2024-2025 instructions)](Obtaining_your_WL_badge_2024-25.pdf)
 >5. Complete [respiratory protection training](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694) through VT EHS
 
 > Note:

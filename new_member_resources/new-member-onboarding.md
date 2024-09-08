@@ -2,7 +2,7 @@
 
 Welcome to the team!
 
-There are some proceedural thinks you need to do to fully participate on team. We're collected them on this page for each reference!
+There are some proceedural things you need to do before you can fully participate on team. We've collected them on this page for easy reference.
 
 >**All New Team Members**
 >1. Join the team Slack (Invite link will be provided during onboarding meeting)

@@ -1,7 +1,8 @@
-# New Member Onboarding (WIP)
+# New Member Onboarding
+
 Welcome to the team!
 
-This page lists the next steps you need to complete to be able to fully participate on the team.
+There are some proceedural thinks you need to do to fully participate on team. We're collected them on this page for each reference!
 
 >**All New Team Members**
 >1. Join the team Slack (Invite link will be provided during onboarding meeting)
@@ -16,7 +17,7 @@ This page lists the next steps you need to complete to be able to fully particip
 
 
 ## Specific Subteam Onboarding
-Each subteam has some additional things that new members need to do. Look at the list below and complete the task list(s) for any subteam(s) that you plan to join.  
+Some subteams have additional things that new members need to do. Look at the list below and complete the task list(s) for any subteam(s) that you plan to join.
 
 
 >**Controls Subteam** Onboarding
@@ -33,6 +34,10 @@ Each subteam has some additional things that new members need to do. Look at the
 
 >**Structures Subteam** Onboarding
 >1. (Recommended) If you have passed ISE 2214, sign up for  Ware Lab machine shop certification - See [Ware Lab Canvas "Files" page](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
+
+
+# Technical Trainings (in development)
+
 
 
 # Useful Resources

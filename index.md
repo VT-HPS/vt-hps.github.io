@@ -12,7 +12,7 @@ Note: this wiki is a work in progress (and to some extent, it always will be).
 For working files and current-semester files, team members should look in the team SharePoint.
 
 # Convenient Links
-- [New Member Onboarding (WIP)](new_member_resources/new-member-onboarding.md)
+- [New Member Onboarding](new_member_resources/new-member-onboarding.md)
 - [International Submarine Races official website](https://internationalsubmarineraces.org/) (external link)
 - [HPS Sharepoint](https://virginiatech.sharepoint.com/sites/HPS) (external link) (access controlled)
 - [HPS GitHub](https://github.com/VT-HPS) (external link)

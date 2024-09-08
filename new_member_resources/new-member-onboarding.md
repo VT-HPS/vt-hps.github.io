@@ -10,7 +10,7 @@ There are some proceedural things you need to do before you can fully participat
 >3. Bookmark [The team wiki](https://vt-hps.github.io/) in your browser
 >4. Obtain your Ware Lab badge - [(link to 2024-2025 instructions)](Obtaining_your_WL_badge_2024-25.pdf)
 >5. Complete [VT EHS respiratory protection training](https://ehss.vt.edu/detail_pages/training_details.php?training_id=1694)
->6. Read [the ISR Contenstant Manual (rule book)](https://internationalsubmarineraces.org/contestant-info/)
+>6. Read [the ISR Contestant Manual (rule book)](https://internationalsubmarineraces.org/contestant-info/)
 
 > Note:
 > SCUBA certification is NOT required of new team members.

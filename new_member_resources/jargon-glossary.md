@@ -12,10 +12,13 @@ If adding a new entry to this page, please put it in the correct spot to keep th
 >Ham
 >- A meme
 
+>LE
+>- Short for "**L**ead **E**ngineer"
+
 >Sub
 >- AKA, "submarine"
 >- The aquatic vessel that we build
 
 >WL
->- Short for "Ware Lab"
+>- Short for "**W**are **L**ab"
 

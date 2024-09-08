@@ -22,7 +22,7 @@ Some subteams have additional things that new members need to do. Look at the li
 
 
 >**Controls Subteam** Onboarding
->1. (Recommended)  If you have passed ISE 2214, sign up for Ware Lab machine shop certification - See [Ware Lab Canvas "Files" page](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
+>1. (Recommended)  If you have passed ISE 2214, sign up for Ware Lab machine shop certification (talk to your LE for current instructions)
 
 
 >**Electronics Subteam** Onboarding
@@ -34,11 +34,11 @@ Some subteams have additional things that new members need to do. Look at the li
 
 
 >**Structures Subteam** Onboarding
->1. (Recommended) If you have passed ISE 2214, sign up for  Ware Lab machine shop certification - See [Ware Lab Canvas "Files" page](https://canvas.vt.edu/courses/35699/files/folder/Policy%20Manuals) once you've been added
+>1. (Recommended) If you have passed ISE 2214, sign up for  Ware Lab machine shop certification (talk to your LE for current instructions)
 
 
 # Technical Trainings (in development)
-
+We are in the process of developing trainings for various tools and processes that we use on the team. Once ready, they will be linked here.
 
 
 # Useful Resources

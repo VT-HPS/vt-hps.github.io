@@ -2,7 +2,7 @@
 
 # (WIP) Information Management Plan
 
-As a design team, HPS generates and uses a lot of information. Stored information is only useful if specific items can be located when needed, and this requires some level of organization. However, as the intricacy of a system's organization system becomes more intricately organized, it's chances of surviving being passed between Datamasters. This section of the wiki lays out a plan and reasoning for how information will be organized in order to balanace the competing objectives of simple access and long-term durability.
+As a design team, HPS generates and uses a lot of information. Stored information is only useful if specific items can be located when needed, and this requires some level of organization. However, as a system's organization becomes more intricately, it risks not surviving being passed between team generations. To strike a balanace between the competing objectives of simple access and long-term durability, this page will lay out a plan for how information will be organized and the reasoning behind that organization scheme.
 
 ## Ways to look at information
 

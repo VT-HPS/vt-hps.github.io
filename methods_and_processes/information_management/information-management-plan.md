@@ -8,7 +8,7 @@ As a design team, HPS generates and uses a lot of information. Stored informatio
 
 !!TODO!! //visual of arranging information by topic vs chronologically
 
-This wiki is divided by topic. Information and "lessons learned" about specific topics can be compiled over time. This provides "long term durability."
+This wiki is divided by topic. Information and "lessons learned" about specific topics will be compiled over time. This provides "long term durability."
 
 This contrasts with the team SharePoint, which is primarily divided by time of authorship and is more of a "working" information storage. This provides "simple access."
 

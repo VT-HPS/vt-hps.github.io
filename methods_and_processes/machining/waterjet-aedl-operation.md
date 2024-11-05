@@ -1,10 +1,10 @@
 
 # Operating the Waterjet at AEDL
-This page is meant intended to be used as a reminder after you have gone through waterjet training. 
-This page was last updated on 204-
+This page is meant to be used as a reminder after you have gone through waterjet training. 
+This page was last updated on 2024-Nov-05
 
 # Access Requirements
-To access the waterjet at the AEDL, you must be trained on the waterjet, which requires Ware Lab machine shop certification. If you have WL machine shop certification and would like to be trained to operate the waterjet, email Phil.
+To access the waterjet at the AEDL, you must be trained on the waterjet, which requires Ware Lab machine shop certification. If you have WL machine shop certification and would like to be trained to operate the waterjet, talk to your LE.
 
 # Startup procedure
 1. Sign in on the user log clipboard (leave machine hours column blank)
@@ -28,6 +28,7 @@ To access the waterjet at the AEDL, you must be trained on the waterjet, which r
 8. The machine is now shut down.
 
 # Operation (cutting a part)
+
 
 
 # Notes and Tips

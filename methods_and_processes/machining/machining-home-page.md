@@ -7,8 +7,8 @@ Machining is an umbrella term for a set of manufacturing processes that use stat
 There is a LOT to learn about machining. Not just information, but also methods and mindset. Fortunately, there are many excellent resources to learn the basics.
 
 !!!TODO: add list of introductory machining resources
-- [Design for Machining](methods_and_processes/machining/design-for-machining.md)
-- [AEDL Waterjet](methods_and_processes/machining/waterjet-aedl-operation.md)
+- [Design for Machining](design-for-machining.md)
+- [AEDL Waterjet](waterjet-aedl-operation.md)
 
 
 ### Footnotes

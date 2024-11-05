@@ -12,12 +12,15 @@ This wiki is divided by topic. Information and "lessons learned" about specific 
 
 This contrasts with the team SharePoint, which is primarily divided by time of authorship and is more of a "working" information storage. This provides "simple access."
 
-## Structure
+## Wiki Structure
 This wiki is intentonally separate from the SharePoint to insulate it against future system migrations by Virginia Tech.
 
 TODO:
 - Find search function and activate it. If no search function exists, find alternative platform for this wiki.
 - Complete instructions for getting added as a contributor to the wiki.
+
+## SharePoint Structure
+//placeholder//
 
 ### Notes:
 Wherever possible, follow a "one source of truth" model. 

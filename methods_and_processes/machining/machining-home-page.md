@@ -8,6 +8,7 @@ There is a LOT to learn about machining. Not just information, but also methods 
 
 !!!TODO: add list of intorductory machining resources
 - [Design for Machining](methods_and_processes/machining/design-for-machining.md)
+- [AEDL Waterjet](methods_and_processes/machining/waterjet-aedl-operation.md)
 
 
 ### Footnotes

@@ -8,6 +8,8 @@ There is a LOT to learn about machining. Not just information, but also methods 
 
 !!!TODO: add list of introductory machining resources
 - [Design for Machining](design-for-machining.md)
+
+### Specific Machines
 - [AEDL Waterjet](waterjet-aedl-operation.md)
 
 

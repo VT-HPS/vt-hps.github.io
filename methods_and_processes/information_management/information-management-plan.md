@@ -2,13 +2,13 @@
 
 # (WIP) Information Management Plan
 
-As a design team, HPS generates and uses a lot of information. Stored information is only useful if specific items can be located when needed, and this requires some level of organization. However, as a system's organization becomes more intricately, it risks not surviving being passed between team generations. To strike a balanace between the competing objectives of simple access and long-term durability, this page will lay out a plan for how information will be organized and the reasoning behind that organization scheme.
+As a design team, HPS generates and uses a lot of information. Stored information is only useful if specific items can be located when needed, and this requires some level of organization. However, if a system's organization becomes more intricate, it risks not surviving being passed between team generations. To strike a balanace between the competing objectives of simple access and organization, this page will lay out a plan for how information will be organized and the reasoning behind that organization scheme.
 
 ## Ways to look at information
 
 !!TODO!! //visual of arranging information by topic vs chronologically
 
-This wiki is divided by topic. Information and "lessons learned" about specific topics will be compiled over time. This provides "long term durability."
+This wiki is divided by topic. Information and "lessons learned" about specific topics will be compiled over time. This provides "organization."
 
 This contrasts with the team SharePoint, which is primarily divided by time of authorship and is more of a "working" information storage. This provides "simple access."
 

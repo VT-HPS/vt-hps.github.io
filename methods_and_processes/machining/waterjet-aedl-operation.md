@@ -10,7 +10,7 @@ If you have been trained on the waterjet and would like to waterjet some parts, 
 
 # Startup Procedure
 1. Sign in on the user log clipboard (leave machine hours column blank)
-2. Turn off the wall box's breaker switch
+2. Turn on the wall box's breaker switch
 3. Inspect the water line to make sure all valves are open (handle inline with pipe)
 4. Turn on the machine's main breaker (Located on the side of the machine facing the door)
 4. Inspect the pump for water leakage at weap holes. If any water is visible, stop immediately and notify Bob (AEDL manager)

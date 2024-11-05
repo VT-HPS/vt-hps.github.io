@@ -6,6 +6,8 @@ This page was last updated on 2024-Nov-05
 # Access Requirements
 To access the waterjet at the AEDL, you must be trained on the waterjet, which requires Ware Lab machine shop certification. If you have WL machine shop certification and would like to be trained to operate the waterjet, talk to your LE.
 
+If you have been trained on the waterjet and would like to waterjet some parts, email Bob (and CC Dewey) at least a day in advance to get on the waterjet schedule.
+
 # Startup Procedure
 1. Sign in on the user log clipboard (leave machine hours column blank)
 2. Turn off the wall box's breaker switch

@@ -6,7 +6,7 @@ As a design team, HPS generates and uses a lot of information. Stored informatio
 
 ## Ways to look at information
 
-!!TODO!! //visual of aranging information by topic vs chronologically
+!!TODO!! //visual of arranging information by topic vs chronologically
 
 This wiki is divided by topic. Information and "lessons learned" about specific topics can be compiled over time. This provides "long term durability."
 

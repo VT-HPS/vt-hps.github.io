@@ -19,7 +19,7 @@ To access the waterjet at the AEDL, you must be trained on the waterjet, which r
 
 # Shutdown procedure
 1. If in FlowCUT, exit Run Machine mode by clicking the blue return arrow under the Cycle Start button.
-2. Close FlowCUT
+2. Close FlowCUT. If popup asks to save changes, do not save changes.
 3. Wash down the table using the hose coiled under the wall mounted electrical box
 4. Turn off the machine's main breaker
 5. Turn off the wall box's breaker switch 
